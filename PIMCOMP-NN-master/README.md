@@ -1,3 +1,9 @@
+运行前请先再PIMCOMP-NN-master执行source PIMCOMP_venv/bin/activate来启动虚拟环境。
+以下是论文原仓库的readme：
+
+
+
+
 # PIMCOMP-NN
 
 PIMCOMP-NN is a compilation optimization framework designed for crossbar-based PIM DNN accelerators. The project comprises three submodules: frontend, backend, and verification program. With PIMCOMP-NN, we can conveniently compile DNN models to get the instruction flow that can be executed on PIM accelerators.
