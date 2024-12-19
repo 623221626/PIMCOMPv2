@@ -1,4 +1,6 @@
-运行前请先再PIMCOMP-NN-master执行source PIMCOMP_venv/bin/activate来启动虚拟环境。
+# 作者注
+运行前请先在PIMCOMP-NN-master执行source PIMCOMP_venv/bin/activate来启动虚拟环境。
+
 以下是论文原仓库的readme：
 
 
